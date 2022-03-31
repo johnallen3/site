@@ -336,7 +336,7 @@ The basic workflow of cloning a repository, adding changes to the staging area, 
     When we cloned the repository using ``git clone``, Git automatically started tracking the remote repository from where we cloned the project.
     You can use the ``git remote -v`` command to double check which remote your repository is tracking.
 
-    **A common mistake during this course is that you have accidentally cloned the template repository in stead of your own/your teams repository.**
+    **A common mistake during this course is that you have accidentally cloned the template repository instead of your own/your teams repository.**
 
     You can read more about managing remotes `in here <https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes>`__.
 
