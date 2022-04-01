@@ -32,7 +32,7 @@ Git projects `in here <https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-S
     Update your Git project using the pull and push commands. Always pull before you push (especially when working in a shared project)!
 
 Version control history consists of snapshots of all the files in our project.
-In order record changes to our files, we first add changes to a so called staging area (using ``git add``). The idea is, that you can have a (sometimes messy) working directory, and by using ``git add`` you tell
+In order to record changes to our files, we first add changes to a so called staging area (using ``git add``). The idea is, that you can have a (sometimes messy) working directory, and by using ``git add`` you tell
 Git which files to include in the next committed snapshot. Finally, ``git commit`` records a permanent snapshot of the staged changes. Read more about basic snapshotting `in here <https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Basic-Snapshotting>`__.
 
 .. figure:: img/Git_illustration.png
